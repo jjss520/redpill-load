@@ -26,8 +26,8 @@
     },
     {
       "name": "model_ds920p.dtb",
-      "url": "https://github.com/jumkey/redpill-load/raw/develop/redpill-dtb/releases/model_ds920p.dtb",
-      "sha256": "e045eabbc6ca98fb324b20ef8e973d310ef939a8d87d76bfb87674437beabcd4",
+      "url": "https://github.com/jjss520/redpill-load/raw/develop/redpill-dtb/releases/model_ds920p.dtb",
+      "sha256": "f4ade9a8a0ac4ecae70a6d658b65fa1894e6996146dbedc69bcfecf508e05937",
       "packed": false
     }
   ],
